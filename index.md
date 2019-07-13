@@ -3,6 +3,8 @@
   - El texto puede ser ** en negrita **, _italic_ o ~~ tachado ~~.
   - [Enlace a otra página] (./ another-page.html).
   - Debe haber espacios en blanco entre los párrafos.
+  
+  <iframe src="https://discordapp.com/widget?id=424016927816548362&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 Debe haber espacios en blanco entre los párrafos. Recomendamos incluir un archivo README o un archivo con información sobre su proyecto.
 
